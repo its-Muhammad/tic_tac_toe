@@ -3,6 +3,7 @@ import pygame as pg
 from pygame.locals import *
 import time
 
+
 field = [[None] * 3, [None] * 3, [None] * 3]
 
 WINNER = None
